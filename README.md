@@ -1,4 +1,4 @@
-# Deploy to AWS with Terraform Using GitHub Actions (Secure OIDC Setup)
+# Deploy to AWS with Terraform Using GitHub Actions (Secure OIDC Setup) - Uday Kiran Reddi
 
 ![Architecture Diagram](diagram)
 
